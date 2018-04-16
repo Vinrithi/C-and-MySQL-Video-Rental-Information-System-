@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1523829751 source:c:\users\vinri\desktop\coursework\c\video rental information system\main.c
+	<stdio.h>
+	<stdlib.h>
+	"mysql-connector/include/mysql.h"
+	"db_manipulation.h"
+
+1523826828 c:\users\vinri\desktop\coursework\c\video rental information system\db_manipulation.h
+	"mysql-connector/include/mysql.h"
+
+1523826828 source:c:\users\vinri\desktop\coursework\c\video rental information system\db_manipulation.h
+	"mysql-connector/include/mysql.h"
+
+1523826792 source:c:\users\vinri\desktop\coursework\c\video rental information system\create_db.c
+	<stdio.h>
+	<stdlib.h>
+	"mysql-connector/include/mysql.h"
+	"db_manipulation.h"
+
+1523854532 source:c:\users\vinri\desktop\coursework\c\video rental information system\manipulate_db.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"mysql-connector/include/mysql.h"
+	"db_manipulation.h"
+
